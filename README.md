@@ -1,10 +1,3 @@
-echo "# JustAstr01" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JustAstr01/AsTr0gever1.git
-git push -u origin main
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
