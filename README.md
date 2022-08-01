@@ -1,7 +1,7 @@
 💬 My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages ,Tools & OSs :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40";
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
