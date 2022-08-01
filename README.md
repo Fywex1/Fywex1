@@ -1,4 +1,4 @@
-My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
+💬 My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
