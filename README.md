@@ -21,7 +21,7 @@
   <img src="http://geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://www.macupdate.com/images/icons512/23765.png" title="WireShark" alt="WireShark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003737761599193149/niktotool.png" title="Nikto" alt="Nikto" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003741200093806683/aliens_copy.png" title="Nikto" alt="Nikto" width="40" height="40"/>&nbsp;
   <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/John-The-Ripper-Ethical-Hacking-Tools-Edureka.png" title="John" alt="John" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <div>
