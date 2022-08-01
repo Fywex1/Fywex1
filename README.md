@@ -23,4 +23,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003741200093806683/aliens_copy.png" title="Nikto" alt="Nikto" width="40" height="40"/>&nbsp;
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003742091953844264/John-The-Ripper-Ethical-Hacking-Tools-Edureka-3016905629_copy.png" title="John" alt="John" width="40" height="40"/>&nbsp;
+  <img src="http://hashcat.net/s/i/hashcat-icon.png" title="John" alt="John" width="40" height="40"/>&nbsp;
 <div>
