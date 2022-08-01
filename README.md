@@ -13,5 +13,4 @@ My Discord - [AsTr0#9999](https://discord.com/channels/@me/548472552129953793)
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
-  <img src="https://ufile.io/ft7ke0wq.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
 </div>
