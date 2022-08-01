@@ -4,8 +4,6 @@
 ### :gear: OSs :
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="http://ih0.redbubble.net/image.208539360.1700/sticker,375x360.png" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width"40" height="40"/>&nbsp;
-  
 </div>
 
 ### :earth_asia: Languages :
