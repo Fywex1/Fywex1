@@ -1,4 +1,4 @@
-💬 My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
+:speech_balloon: My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
 ---
 
 ### :gear: OSs :
