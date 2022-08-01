@@ -1,5 +1,5 @@
 Hi, Im Astr0,👋 I love to code & program stuff!
-My Discord - (AsTr0#9999)[https://discord.com/channels/@me/548472552129953793]
+My Discord - [AsTr0#9999](https://discord.com/channels/@me/548472552129953793)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
