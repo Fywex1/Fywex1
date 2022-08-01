@@ -12,6 +12,7 @@ My Discord - [AsTr0#9999](https://discord.com/channels/@me/548472552129953793)
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width"40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   <img src="http://geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://www.macupdate.com/images/icons512/23765.png" title="WireShark" alt="WireShark" width="40" height="40"/>&nbsp;
 </div>
