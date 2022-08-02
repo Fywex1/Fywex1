@@ -2,6 +2,13 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/Steam-blue" onclick="window.location.href='https://steamcommunity.com/id/JustAstr0/' logo='steam
+logoColor='white alt="Steam Badge"/>
+  <img src="https://img.shields.io/badge/Spotify-green" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Discord-blurp?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 
 ### :speech_balloon: My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
 
