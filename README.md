@@ -2,9 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
-<a href="https://discord.com/users/548472552129953793">AsTr0#9999</a>
 <div align="center"> :speech_balloon: My Discord - <a href="https://discord.com/users/548472552129953793">AsTr0#9999</a></div>
-<div align="center"> :video_game: My Steam - [Astr0](https://steamcommunity.com/id/JustAstr0/)</div>
+<div align="center"> :video_game: My Steam - <a href=https://steamcommunity.com/id/JustAstr0/>Astr0</a></div>
 
 ---
 
