@@ -2,6 +2,18 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://discord.com/users/548472552129953793">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/548472552129953793)
 <div align="center"> :speech_balloon: My Discord - <a href="https://discord.com/users/548472552129953793">AsTr0#7334</a></div>
 <div align="center"> :video_game: My Steam - <a href=https://steamcommunity.com/id/JustAstr0>Astr0</a></div>
