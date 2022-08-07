@@ -29,7 +29,7 @@
 
 • Learning cyber security and networking by myself and by courses.
 
-• This is the OSs, Languages and tools that I know. :point_down: 
+• This is the OSs, languages and tools that I know. :point_down: 
 
 ---
 
