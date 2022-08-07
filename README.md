@@ -18,6 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=JustAstr01&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/779377824086753312/1005829132782944316/a_140ef994b09cf044d9a3b92fb0703e83.gif" width="600" height="300"/>
+</div>
+
 ### :man_technologist: About me:
 • Software engineering high school student
 
