@@ -25,7 +25,7 @@
 </h1>
 
 ### :man_technologist: About me:
-• Software engineering high school student
+• Software engineering high school student.
 
 • Learning cyber security and networking by myself and by courses.
 
