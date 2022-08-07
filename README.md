@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<div>
+</div>
 
 ### :hammer_and_wrench: Tools :
 <div>
@@ -56,4 +56,6 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003741200093806683/aliens_copy.png" title="Nikto" alt="Nikto" width="40" height="40"/>&nbsp;
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003742091953844264/John-The-Ripper-Ethical-Hacking-Tools-Edureka-3016905629_copy.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
-<div>
+</div>
+
+  
