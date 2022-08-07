@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> :speech_balloon: My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)</div>
-### :video_game: My Steam - [Astr0](https://steamcommunity.com/id/JustAstr0/)
+<div align="center"> :video_game: My Steam - [Astr0](https://steamcommunity.com/id/JustAstr0/)</div>
 
 ---
 
