@@ -20,6 +20,7 @@
 
 ### :man_technologist: About me
 Hi, I'm Astr0,👋 I'm a software engineering high school student who also have interest in cyber security and networking.
+
 This is the OSs, Languages and tools that I use. :point_down: 
 
 ---
