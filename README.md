@@ -2,7 +2,9 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
-### :speech_balloon: My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
+<h1>
+  :speech_balloon: My Discord - [AsTr0#9999](https://discord.com/users/548472552129953793)
+</h1>  
 ### :video_game: My Steam - [Astr0](https://steamcommunity.com/id/JustAstr0/)
 
 ---
