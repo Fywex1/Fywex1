@@ -2,15 +2,15 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://discord.com/users/548472552129953793">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://steamcommunity.com/id/JustAstr0">
+    <img src="https://img.shields.io/badge/Steam-dark_blue?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://open.spotify.com/user/hst1pbjgh9io3ixqpz9ex8zrm?si=3ab668b178bb438f">
+    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
 
