@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://discord.com/users/548472552129953793">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="AsTr0#7334"/>
   </a>
   <a href="https://steamcommunity.com/id/JustAstr0">
-    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Astr0"/>
   </a>
   <a href="https://open.spotify.com/user/hst1pbjgh9io3ixqpz9ex8zrm?si=3ab668b178bb438f">
-    <img src="https://img.shields.io/badge/Spotify-dark_blue?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-dark_blue?style=for-the-badge&logo=Spotify&logoColor=white" alt="Astr0"/>
   </a>
 </div>
 
