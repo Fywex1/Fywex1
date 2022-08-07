@@ -58,6 +58,4 @@
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
 </div>
 
-<p dir="auto">
-  <a href="https://discord.com/users/548472552129953793" rel="nofollow"><img src="https://camo.githubusercontent.com/0dda4ac4b98921dd3e76de7414f40df9f9cc5388c3d5ddbe4a0b76c075b0c556/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3733393939393038393536333030393033373f686964655374617475733d74727565" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/739999089563009037?hideStatus=true" style="max-width: 100%;"></a>
-</p>  
+
