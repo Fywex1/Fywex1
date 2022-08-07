@@ -57,3 +57,5 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003742091953844264/John-The-Ripper-Ethical-Hacking-Tools-Edureka-3016905629_copy.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
 <div>
+
+https://discord.com/users/548472552129953793
