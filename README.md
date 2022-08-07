@@ -19,10 +19,10 @@
 </div>
 
 ‎ 
-<div align="center">
+<h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+</h1>
 
 ### :man_technologist: About me:
 • Software engineering high school student
