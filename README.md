@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
 
-[![Discord](https://img.shields.io/badge/-discord-blue?style=flat&logo=Discord&logoColor=blue)](https://discord.com/users/548472552129953793)
+[![Discord](https://img.shields.io/badge/-discord-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/548472552129953793)
 <div align="center"> :speech_balloon: My Discord - <a href="https://discord.com/users/548472552129953793">AsTr0#7334</a></div>
 <div align="center"> :video_game: My Steam - <a href=https://steamcommunity.com/id/JustAstr0>Astr0</a></div>
 <div align="center"> :musical_note: My Spotify - <a href=https://open.spotify.com/user/hst1pbjgh9io3ixqpz9ex8zrm?si=3ab668b178bb438f>Astr0</a></div>
