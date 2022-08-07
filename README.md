@@ -21,7 +21,7 @@
 ### :man_technologist: About me:
 • Software engineering high school student
 
-• Learning cyber security and networking by myself and courses.
+• Learning cyber security and networking by myself and by courses.
 
 • This is the OSs, Languages and tools that I know. :point_down: 
 
