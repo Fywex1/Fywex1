@@ -58,4 +58,6 @@
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/548472552129953793?hideStatus=true)](https://discord.com/users/548472552129953793)
