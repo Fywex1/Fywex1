@@ -26,6 +26,8 @@
 
 • Learning cyber security and networking by myself and by courses.
 
+• Currently learning C
+
 • This is the OSs, languages and tools that I know. :point_down: 
 
 ---
