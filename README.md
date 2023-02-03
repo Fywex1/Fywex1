@@ -34,7 +34,7 @@
 
 ### :gear: OSs :
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F04%2FLinux_logo.png%2Frevision%2Flatest%3Fcb%3D20120814052336&f=1&nofb=1&ipt=747a4275e4e6ab92ed3eb5a010b960489b6d70f869cfa84c7ce54a55c29ed6f5&ipo=images" title="Kali Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F04%2FLinux_logo.png%2Frevision%2Flatest%3Fcb%3D20120814052336&f=1&nofb=1&ipt=747a4275e4e6ab92ed3eb5a010b960489b6d70f869cfa84c7ce54a55c29ed6f5&ipo=images" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ### :earth_asia: Languages :
