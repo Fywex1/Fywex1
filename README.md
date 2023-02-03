@@ -26,7 +26,7 @@
 
 • Learning cyber security and networking by myself and by courses.
 
-• Currently learning C, C++
+• Currently learning C++
 
 • This is the OSs, languages and tools that I know. :point_down: 
 
@@ -44,6 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;     
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Tools :
