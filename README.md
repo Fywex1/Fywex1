@@ -63,7 +63,7 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,rollupjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
