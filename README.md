@@ -51,6 +51,11 @@
     <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,html&theme=dark" />
 </div>
 
+<h3 align="center">:gear: OSs</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+</div>
+
 <h3 align="center">:hammer_and_wrench: Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,idea&theme=dark" />
