@@ -21,7 +21,6 @@
 <div align="center">
 • Software engineering high school student.<br>
 • Learning cyber security and networking by myself and by courses.<br>
-• Currently learning C++<br>
 • This is the OSs, languages and tools that I know. :point_down:<br>
 </div>
 ‎
