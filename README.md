@@ -51,17 +51,13 @@
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
 </div>
 
-<h3 align="center">Languages/Runtimes</h3>
+<h3 align="center">🌏 Languages</h3>
 <div align="center" style="margin-top: 10px">
     <img src="https://skillicons.dev/icons?i=nodejs,deno,typescript,javascript,cpp,c,sass,css,wasm,md,html&theme=dark" />
+    <img src="http://geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
 </div>
 
-<h3 align="center">Frameworks</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=electron,react,next&theme=dark" />
-</div>
-
-<h3 align="center">Tools</h3>
+<h3 align="center">:hammer_and_wrench: Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,idea&theme=dark" />
 </div>
@@ -69,9 +65,4 @@
 <h3 align="center">Databases</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=redis,mysql&theme=dark" />
-</div>
-
-<h3 align="center">Design</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,materialui,bootstrap&theme=dark" />
 </div>
