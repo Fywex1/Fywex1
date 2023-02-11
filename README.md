@@ -53,7 +53,7 @@
 
 <h3 align="center">:gear: OSs</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=win,linux&theme=dark" />
 </div>
 
 <h3 align="center">:hammer_and_wrench: Tools</h3>
