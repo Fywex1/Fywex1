@@ -24,15 +24,15 @@
 • This is the OSs, languages and tools that I know. :point_down:<br>
 </div>
 
-<h3 align="center">🌏 Languages</h3>
-<div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,html&theme=dark" />
-</div>
-
 <h3 align="center">:gear: OSs</h3>
 <div align="center" style="margin-top: 10px">
     <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="49" height="49"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
+</div>
+
+<h3 align="center">🌏 Languages</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,html&theme=dark" />
 </div>
 
 <h3 align="center">:hammer_and_wrench: Tools</h3>
