@@ -23,7 +23,6 @@
 • Learning cyber security and networking by myself and by courses.<br>
 • This is the OSs, languages and tools that I know. :point_down:<br>
 </div>
-‎
 
 ### :gear: OSs :
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
