@@ -53,7 +53,8 @@
 
 <h3 align="center">:gear: OSs</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=win,linux&theme=dark" />
+    <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
 </div>
 
 <h3 align="center">:hammer_and_wrench: Tools</h3>
