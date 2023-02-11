@@ -21,7 +21,7 @@
 <div align="center">
 • Software engineering high school student.<br>
 • Learning cyber security and networking by myself and by courses.<br>
-• This is the languages,tools, databases that I'm familiar with. :point_down:<br>
+• This is the languages, tools, databases that I'm familiar with. :point_down:<br>
 </div>
 
 <h3 align="center">🌏 Languages</h3>
