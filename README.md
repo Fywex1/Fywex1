@@ -17,10 +17,10 @@
 
 <h3 align="center">:man_technologist: About Me</h3>
 <div align="center">
-• Software engineering high school student.
-• Learning cyber security and networking by myself and by courses.
-• Currently learning C++
-• This is the OSs, languages and tools that I know. :point_down: 
+• Software engineering high school student.\n
+• Learning cyber security and networking by myself and by courses.\n
+• Currently learning C++\n
+• This is the OSs, languages and tools that I know. :point_down: \n
 </div>
 ‎
 
