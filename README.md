@@ -68,7 +68,7 @@
 
 <h3 align="center">Databases</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,sqlite,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=redis,mysql&theme=dark" />
 </div>
 
 <h3 align="center">Design</h3>
