@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
+
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1004110873243164812/AsTr0-modified.png" width="100"/>
 </div>
@@ -61,7 +63,7 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,git,webpack,rollupjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,rollupjs&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
