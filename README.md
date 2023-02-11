@@ -53,7 +53,7 @@
 
 <h3 align="center">:gear: OSs</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="64" height="64"/>&nbsp;
+    <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="45" height="45"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
 </div>
 
