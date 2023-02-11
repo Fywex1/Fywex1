@@ -15,22 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=JustAstr01&style=flat-square&color=blue" alt=""/>
 </div>
 
-‎ 
-<h1 align="center">
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-### :man_technologist: About me:
+<h3 align="center">:man_technologist: About Me</h3>
+<div align="center">
 • Software engineering high school student.
-
 • Learning cyber security and networking by myself and by courses.
-
 • Currently learning C++
-
 • This is the OSs, languages and tools that I know. :point_down: 
-
----
+</div>
+‎
 
 ### :gear: OSs :
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
@@ -55,4 +47,29 @@
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003741200093806683/aliens_copy.png" title="Nikto" alt="Nikto" width="40" height="40"/>&nbsp;
   <img src="https://cdn.discordapp.com/attachments/779377824086753312/1003742091953844264/John-The-Ripper-Ethical-Hacking-Tools-Edureka-3016905629_copy.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
   <img src="http://hashcat.net/s/i/hashcat-icon.png" title="HashCat" alt="HashCat" width="40" height="40"/>&nbsp;
+</div>
+
+<h3 align="center">Languages/Runtimes</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=nodejs,deno,typescript,javascript,cpp,c,sass,css,wasm,md,html&theme=dark" />
+</div>
+
+<h3 align="center">Frameworks</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=electron,react,next&theme=dark" />
+</div>
+
+<h3 align="center">Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,git,webpack,rollupjs&theme=dark" />
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,sqlite,mysql&theme=dark" />
+</div>
+
+<h3 align="center">Design</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,materialui,bootstrap&theme=dark" />
 </div>
