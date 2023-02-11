@@ -58,7 +58,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,idea&theme=dark" />
     <img src="http://geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
     <img src="https://www.macupdate.com/images/icons512/23765.png" title="WireShark" alt="WireShark"/>&nbsp;
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F580131056629735424%2F2ENTk2K2.png&f=1&nofb=1&ipt=d575ee2a7459ccf324184f4682c848c7cd746a6f0f45045232e04b6f7fcd2aea&ipo=images" title="MetaSploit" alt="MetaSploit/>
+    //<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F580131056629735424%2F2ENTk2K2.png&f=1&nofb=1&ipt=d575ee2a7459ccf324184f4682c848c7cd746a6f0f45045232e04b6f7fcd2aea&ipo=images" title="MetaSploit" alt="MetaSploit/>
 </div>
 
 <h3 align="center">Databases</h3>
