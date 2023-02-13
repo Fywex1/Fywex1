@@ -19,8 +19,8 @@
 
 <h3 align="center">:man_technologist: About Me</h3>
 <div align="center">
-Hi, I'm Astr0,👋 I'm a software engineering high school student.</br>
-I also have interest in cyber security and networking and I'm currently researching alot about those subjects
+Hi, I'm Astr0,👋 I'm a software engineering high school student who to gain more knowledge.</br>
+I also have interest in cyber security and networking and I'm currently researching and learning about those subjects
 
 </div>
 
