@@ -19,9 +19,7 @@
 
 <h3 align="center">:man_technologist: About Me</h3>
 <div align="center">
-• Software engineering high school student.<br>
-• Learning cyber security and networking by myself and by courses.<br>
-• This is the languages, tools, databases that I'm familiar with. :point_down:<br>
+Hi, I'm Astr0,👋 I'm a software engineering high school student who also have interest in cyber security and networking.
 </div>
 
 <h3 align="center">🌏 Languages</h3>
