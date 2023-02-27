@@ -35,7 +35,7 @@ I also have interest in cyber security and networking and I'm currently research
     <img src="http://geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
     <img src="https://www.macupdate.com/images/icons512/23765.png" title="WireShark" alt="WireShark" width="40" height="40"/>&nbsp;
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F580131056629735424%2F2ENTk2K2.png&f=1&nofb=1&ipt=d575ee2a7459ccf324184f4682c848c7cd746a6f0f45045232e04b6f7fcd2aea&ipo=images" title="MetaSploit" alt="MetaSploit" width="40" height="40">&nbsp;
-  <img src="https://1.bp.blogspot.com/_bCYQxIvMQ2U/TUvRviQ92eI/AAAAAAAAA48/ZT55aXeKB0w/s640/THC-HYDRA+v6.1+brute+force+tool+Released.png" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F_bCYQxIvMQ2U%2FTUvRviQ92eI%2FAAAAAAAAA48%2FZT55aXeKB0w%2Fs640%2FTHC-HYDRA%2Bv6.1%2Bbrute%2Bforce%2Btool%2BReleased.png&f=1&nofb=1&ipt=abd035dc3a3f5e6e14df7f15178ccd9586088c699b27361b9ec956b4ccd3222a&ipo=images" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="center">Databases</h3>
