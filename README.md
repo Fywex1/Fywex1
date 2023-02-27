@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
 <div id="header" align="center">
-  <Welcome to my profile 👋/>
+  <h1>Welcome to my profile 👋</h1>
 </div>
 
 <div id="badges" align="center">
